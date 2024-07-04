@@ -1,8 +1,8 @@
-### Hi there 👋, I`am Sakib
-#### I
+# Hi there 👋, I`am Sakib
+
 Hi Guys I am Junior web Developer. Love to learn new skills. Love to Code
 
-Skills:  JS / HTML / CSS
+##Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
