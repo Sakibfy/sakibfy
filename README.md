@@ -1,8 +1,9 @@
+https://www.facebook.com/photo/?fbid=1141969057229191&set=a.180791670013606
 # Hi there 👋, I`am Sakib
 
 Hi Guys I am Junior web Developer. Love to learn new skills. Love to Code
 
-##Skills:  JS / HTML / CSS
+Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
@@ -13,6 +14,6 @@ Hi Guys I am Junior web Developer. Love to learn new skills. Love to Code
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Sakibfy)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
