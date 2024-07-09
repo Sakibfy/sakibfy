@@ -1,4 +1,4 @@
-https://www.facebook.com/photo/?fbid=1141969057229191&set=a.180791670013606
+
 # Hi there 👋, I`am Sakib
 
 Hi Guys I am Junior web Developer. Love to learn new skills. Love to Code
