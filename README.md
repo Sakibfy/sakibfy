@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibfy&label=Profile%20views&color=0e75b6&style=flat" alt="sakibfy" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **gameingsakib71@gmail.com**
+- 📫 How to reach me **sakib.dav.info.@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
