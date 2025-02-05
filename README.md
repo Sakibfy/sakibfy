@@ -1,23 +1,14 @@
 <div align="center">
-  <img height="200" width="1500" src="https://i.ibb.co.com/4ZJkRvYD/sakib-1.png"  />
+  <img height="200" src="https://i.ibb.co.com/4ZJkRvYD/sakib-1.png"  />
 </div>
 
 ###
 
-<h2 align="center">Hello 👋! My name is Sakib and I'm a  frontend Web Developer, from Bangladesh</h2>
+<h2 align="center">Hello I am Sakib and I'm a  frontend Web Developer, from Bangladesh</h2>
 
 ###
 
-<div class="flex justify-center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://nirzak-streak-stats.vercel.app?user=&border_radius=6.3&exclude_days=Tue%2CWed&card_width=477" 
-      alt="GitHub Streak Stats" 
-      class="rounded-lg shadow-lg"
-    />
-  </a>
-</div>
-
+<h2 align="center">Social Link</h2>
 
 ###
 
@@ -29,6 +20,13 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="facebook logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakibfy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakibfy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
