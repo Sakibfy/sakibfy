@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hello I am Sakib and I'm a  frontend Web Developer, from Bangladesh</h2>
+<h2 align="center">Hi i am Sakib and I'm a  frontend Web Developer, from Bangladesh</h2>
 
 ###
 
@@ -19,7 +19,9 @@
   <a href="https://www.facebook.com/Sakib.Dev.info.fy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="facebook logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"  />
+  <a href="https://x.com/mdSakibdevfy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
