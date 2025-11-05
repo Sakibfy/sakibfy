@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi i am Sakib and I'm a  frontend Web Developer, from Bangladesh</h2>
+<h2 align="center">Hi, I am Sakib and I'm a  Full stack Web Developer from Bangladesh</h2>
 
 ###
 
