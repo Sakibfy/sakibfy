@@ -2,8 +2,8 @@
   <img 
     src="https://i.ibb.co.com/5gy2qXkK/sakib.png"
     style="
-      width: 200px;
-      height: 200px;
+      width: full;
+      height: full;
       border-radius: 50%;
       object-fit: cover;
     "
