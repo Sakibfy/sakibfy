@@ -1,5 +1,13 @@
 <div align="center">
-  <img height="250" width="1400" src="https://i.ibb.co.com/5gy2qXkK/sakib.png"  />
+  <img 
+    src="https://i.ibb.co.com/5gy2qXkK/sakib.png"
+    style="
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      object-fit: cover;
+    "
+  />
 </div>
 
 ###
